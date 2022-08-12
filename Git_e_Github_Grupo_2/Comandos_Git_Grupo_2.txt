@@ -1,0 +1,4 @@
+ls - Listar arquivos no diretório ou pasta
+mkdir - Cria um novo diretório ou pasta
+clear - Limpar a tela do terminal
+cd - Sobe um nível de pasta
