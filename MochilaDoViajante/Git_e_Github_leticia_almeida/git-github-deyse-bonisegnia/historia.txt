@@ -1,0 +1,3 @@
+1 Começou com 2 sócios kitkeeper depois de uma discussão entre eles e o criador de Linus fez o Git em 10 dias e tá até hoje porque ele queria que fosse open source e seu associado queria vender. 
+2 Hoje é a Microsoft dona do Github. 
+3 Sim existe outra maneira sem usar o terminal pelo github desktop.
